@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\testdrive\\aspnetcore\\junkinstest\\junkinstest\\junkinstest.csproj",
+      "projectUniqueName": "E:\\testdrive\\aspnetcore\\git\\Jukinstest\\junkinstest\\junkinstest.csproj",
       "projectName": "junkinstest",
-      "projectPath": "E:\\testdrive\\aspnetcore\\junkinstest\\junkinstest\\junkinstest.csproj",
+      "projectPath": "E:\\testdrive\\aspnetcore\\git\\Jukinstest\\junkinstest\\junkinstest.csproj",
       "packagesPath": "C:\\Users\\Rajesh\\.nuget\\packages\\",
-      "outputPath": "E:\\testdrive\\aspnetcore\\junkinstest\\junkinstest\\obj\\",
+      "outputPath": "E:\\testdrive\\aspnetcore\\git\\Jukinstest\\junkinstest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rajesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
